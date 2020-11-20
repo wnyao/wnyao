@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <h4>
+  <p>
     Software engineer and practitioner primarily on environments that are web-related. Currently hanging out at cloud native space. 
-  </h4>
+  </p>
 </div>
 
 <br/>
