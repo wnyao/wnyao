@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Hi there, I'm wnyao 👋</h2>
+   <h3>Hi, I'm wnyao </h3>
 </div>
 
 <div align="center">
@@ -13,12 +13,6 @@
  
 <p align="center">
   <b> Web Development | Microservices | Cloud Native </b>
-</p>
-
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=wnyao&&show_icons=true&theme=radical"/>
-  </a>
 </p>
 
 <p align="center">
