@@ -12,7 +12,7 @@
 <br/>
  
 <p align="center">
-  <b> Web Development | Microservices | Cloud Native </b>
+  <b> Web | Microservices | Cloud Native </b>
 </p>
 
 <p align="center">
