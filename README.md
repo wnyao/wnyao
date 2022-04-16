@@ -16,7 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/wyaoo_"><img height="30" src="https://icons.iconarchive.com/icons/danleech/simple/512/twitter-icon.png"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/wenyaok/"><img height="30" src="https://www.sc-cg.org/wp-content/uploads/2018/09/LinkedIn_Icon.png"></a>&nbsp;
+  <a href="https://www.behance.net/wnyao"><img height="30" src="https://icons.iconarchive.com/icons/danleech/simple/512/behance-icon.png"></a>&nbsp;
 </p>
 
 <br />
