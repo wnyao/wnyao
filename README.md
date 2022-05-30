@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="border-radius: 5px;" src="https://images.prismic.io/digitalocean/0b619d51-a723-4748-997f-39ed5697a540_intro-to-cloud.jpg?auto=compress,format" />
+  <img src="https://images.prismic.io/digitalocean/0b619d51-a723-4748-997f-39ed5697a540_intro-to-cloud.jpg?auto=compress,format" />
 </div>
 
 <br />
