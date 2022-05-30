@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://images.prismic.io/digitalocean/0b619d51-a723-4748-997f-39ed5697a540_intro-to-cloud.jpg?auto=compress,format" />
+</div>
+
+<br />
+
+<div align="center">
    <h3>Hi, I'm wnyao </h3>
 </div>
 
