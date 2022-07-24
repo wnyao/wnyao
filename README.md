@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.prismic.io/digitalocean/0b619d51-a723-4748-997f-39ed5697a540_intro-to-cloud.jpg?auto=compress,format" />
+  <img src="https://i.ytimg.com/vi/QBy6P3_qOhI/maxresdefault.jpg" />
 </div>
 
 <br />
@@ -22,14 +22,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wenyaok">
-    <img height="30" src="https://icons.iconarchive.com/icons/danleech/simple/512/linkedin-icon.png">
+  <a href="https://linktr.ee/wnyao">
+    <img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linktree.png">
   </a>
-  &nbsp;
-  <a href="https://www.behance.net/wnyao">
-    <img height="30" src="https://icons.iconarchive.com/icons/danleech/simple/512/behance-icon.png">
-  </a>
-  &nbsp;
 </p>
 
 <br />
