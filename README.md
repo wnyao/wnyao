@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    Software engineer and practitioner primarily on environments that are web-related. Currently hanging out at web3 space, but open to learn anything technology.
+    Software engineer and practitioner primarily on environments that are web and cloud-related. Open to learn anything technology.
   </p>
 </div>
 
