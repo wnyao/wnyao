@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://linktr.ee/wnyao">
-    <img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linktree.png">
+    <img height="30" style="border-radius: 20px;" src="https://d1fdloi71mui9q.cloudfront.net/HwrgaarzTEOljjhlbkV5_Ag7K55YMvWAE9Ul4">
   </a>
 </p>
 
