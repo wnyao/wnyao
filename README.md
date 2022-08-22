@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ytimg.com/vi/QBy6P3_qOhI/maxresdefault.jpg" />
+  <img src="https://external-preview.redd.it/rnM6puxUUUNtpvi7hbgWEW-bYnoFrMAx2CTFagCyA5Q.png?format=pjpg&auto=webp&s=a25e5377e65a35aa6f3f1bd43a194b5bd4bc5ac4" />
 </div>
 
 <br />
