@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.ytimg.com/vi/kgx4WGK0oNU/maxresdefault.jpg" />
-</div>
-
 <br />
 
 <div align="center">
