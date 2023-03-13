@@ -17,10 +17,4 @@
   <b> Web | Microservices | Cloud Native </b>
 </p>
 
-<p align="center">
-  <a href="https://linktr.ee/wnyao">
-    <img height="30" style="border-radius: 20px;" src="https://d1fdloi71mui9q.cloudfront.net/HwrgaarzTEOljjhlbkV5_Ag7K55YMvWAE9Ul4">
-  </a>
-</p>
-
 <br />
