@@ -1,12 +1,12 @@
 <br />
 
 <div align="center">
-   <h3>Hi, I'm wnyao </h3>
+   <h3>Hello world</h3>
 </div>
 
 <div align="center">
   <p>
-    Software engineer and practitioner primarily on environments that are web and cloud related. Open to learn anything technology.
+    I'm a software engineer and practitioner primarily on environments that are web and cloud related. Open to learn anything technology.
   </p>
 </div>
 
